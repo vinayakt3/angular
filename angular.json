@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "questionnaire"
+  "defaultProject": "questionnaire",
+  "cli": {
+    "analytics": false
+  }
 }
